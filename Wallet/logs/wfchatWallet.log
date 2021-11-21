@@ -1,0 +1,109 @@
+2021-11-21 09:14:39,977 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 09:14:39,987 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 7 ms
+2021-11-21 09:14:40,045 [INFO  ] mainlogger – WalletController.java - createWallet API has been invoked z2zxzx00
+2021-11-21 09:14:40,046 [INFO  ] mainlogger – WalletServiceImpl.java - createWallet implementation has been started 
+2021-11-21 09:14:41,956 [INFO  ] mainlogger – WalletServiceImpl.java - createWallet implementation has been ended 
+2021-11-21 09:15:19,811 [INFO  ] mainlogger – WalletController.java - getWalletInfoByUserId API has been invoked z2zxzx00
+2021-11-21 09:18:49,898 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 09:18:49,901 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 3 ms
+2021-11-21 09:18:49,951 [INFO  ] mainlogger – WalletController.java - getWalletInfoByUserId API has been invoked z2zxzx00
+2021-11-21 09:55:41,916 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 09:55:41,921 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 4 ms
+2021-11-21 09:55:41,938 [WARN  ] o.s.w.s.m.s.DefaultHandlerExceptionResolver – Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2021-11-21 09:55:48,367 [INFO  ] mainlogger – CardController.java - addCard API has been invoked 
+2021-11-21 09:58:44,182 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 09:58:44,185 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 3 ms
+2021-11-21 09:58:44,212 [INFO  ] mainlogger – CardController.java - addCard API has been invoked 
+2021-11-21 10:00:03,253 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 10:00:03,257 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 3 ms
+2021-11-21 10:00:03,285 [INFO  ] mainlogger – CardController.java - addCard API has been invoked 
+2021-11-21 10:03:41,600 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 10:03:41,601 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 1 ms
+2021-11-21 10:03:41,634 [INFO  ] mainlogger – CardController.java - addCard API has been invoked 
+2021-11-21 10:03:59,045 [INFO  ] mainlogger – CardController.java - addCard API has been invoked 
+2021-11-21 10:05:46,578 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 10:05:46,580 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 1 ms
+2021-11-21 10:05:46,656 [INFO  ] mainlogger – CardController.java - addCard API has been invoked 
+2021-11-21 10:21:52,527 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 10:21:52,533 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 6 ms
+2021-11-21 10:21:52,611 [INFO  ] mainlogger – CardController.java - addCard API has been invoked 
+2021-11-21 10:22:32,725 [INFO  ] mainlogger – CardController.java - getAllCards API has been invoked 
+2021-11-21 10:22:52,857 [INFO  ] mainlogger – CardController.java - getAllCards API has been invoked 
+2021-11-21 10:24:14,101 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 10:24:14,104 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 3 ms
+2021-11-21 10:24:14,140 [INFO  ] mainlogger – CardController.java - getAllCards API has been invoked 
+2021-11-21 10:38:01,474 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 10:38:01,479 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 3 ms
+2021-11-21 10:38:01,506 [INFO  ] mainlogger – CardController.java - getAllCards API has been invoked 
+2021-11-21 10:39:15,521 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 10:39:15,522 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 1 ms
+2021-11-21 10:39:15,566 [INFO  ] mainlogger – CardController.java - getAllCards API has been invoked 
+2021-11-21 10:40:42,749 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 10:40:42,753 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 2 ms
+2021-11-21 10:40:42,789 [INFO  ] mainlogger – CardController.java - getAllCards API has been invoked 
+2021-11-21 10:42:25,091 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 10:42:25,094 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 1 ms
+2021-11-21 10:42:25,128 [INFO  ] mainlogger – CardController.java - getAllCards API has been invoked 
+2021-11-21 10:42:32,356 [INFO  ] mainlogger – CardController.java - getAllCards API has been invoked 
+2021-11-21 10:43:28,782 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 10:43:28,784 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 1 ms
+2021-11-21 10:43:28,822 [INFO  ] mainlogger – CardController.java - getAllCards API has been invoked 
+2021-11-21 10:44:22,611 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 10:44:22,613 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 1 ms
+2021-11-21 10:44:22,652 [INFO  ] mainlogger – CardController.java - getAllCards API has been invoked 
+2021-11-21 10:44:43,333 [INFO  ] mainlogger – CardController.java - getAllCards API has been invoked 
+2021-11-21 10:44:48,529 [INFO  ] mainlogger – CardController.java - getAllCards API has been invoked 
+2021-11-21 10:45:14,423 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 10:45:14,425 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 1 ms
+2021-11-21 10:45:14,457 [INFO  ] mainlogger – CardController.java - getAllCards API has been invoked 
+2021-11-21 10:45:20,197 [INFO  ] mainlogger – CardController.java - getAllCards API has been invoked 
+2021-11-21 10:57:44,492 [INFO  ] mainlogger – WalletController.java - createWallet API has been invoked z2zxzx00
+2021-11-21 10:57:44,495 [INFO  ] mainlogger – WalletServiceImpl.java - createWallet implementation has been started 
+2021-11-21 10:57:46,245 [INFO  ] mainlogger – WalletServiceImpl.java - createWallet implementation has been ended 
+2021-11-21 11:00:54,968 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 11:00:54,974 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 4 ms
+2021-11-21 11:00:55,011 [INFO  ] mainlogger – WalletController.java - createWallet API has been invoked z2zxzx00
+2021-11-21 11:00:55,011 [INFO  ] mainlogger – WalletServiceImpl.java - createWallet implementation has been started 
+2021-11-21 11:00:57,050 [INFO  ] mainlogger – WalletServiceImpl.java - createWallet implementation has been ended 
+2021-11-21 11:01:01,809 [INFO  ] mainlogger – CardController.java - addCard API has been invoked 
+2021-11-21 11:13:00,493 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 11:13:00,495 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 1 ms
+2021-11-21 11:13:00,525 [INFO  ] mainlogger – WalletController.java - getWalletInfoByUserId API has been invoked z2zxzx00
+2021-11-21 11:13:48,602 [INFO  ] mainlogger – WalletController.java - getWalletInfoByUserId API has been invoked z2zxzx00
+2021-11-21 11:13:49,631 [INFO  ] mainlogger – WalletController.java - getWalletInfoByUserId API has been invoked z2zxzx00
+2021-11-21 11:14:03,545 [INFO  ] mainlogger – WalletController.java - getWalletInfoByUserId API has been invoked z2zxzx00
+2021-11-21 11:14:19,002 [INFO  ] mainlogger – WalletController.java - getWalletInfoByUserId API has been invoked z2zxzx00
+2021-11-21 11:23:07,642 [INFO  ] mainlogger – WalletController.java - getWalletInfoByUserId API has been invoked z2zxzx00
+2021-11-21 11:27:15,933 [INFO  ] mainlogger – WalletController.java - getWalletInfoByUserId API has been invoked z2zxzx00
+2021-11-21 13:31:28,998 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 13:31:29,002 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 2 ms
+2021-11-21 13:31:29,077 [INFO  ] mainlogger – CardController.java - addCard API has been invoked 
+2021-11-21 13:31:46,085 [INFO  ] mainlogger – CardController.java - getAllCards API has been invoked 
+2021-11-21 13:32:11,134 [INFO  ] mainlogger – WalletController.java - createWallet API has been invoked FQFVFVrr
+2021-11-21 13:32:11,135 [INFO  ] mainlogger – WalletServiceImpl.java - createWallet implementation has been started 
+2021-11-21 13:32:12,601 [INFO  ] mainlogger – WalletServiceImpl.java - createWallet implementation has been ended 
+2021-11-21 13:32:36,824 [INFO  ] mainlogger – WalletController.java - createWallet API has been invoked FQFVFVrr
+2021-11-21 13:32:36,825 [INFO  ] mainlogger – WalletServiceImpl.java - createWallet implementation has been started 
+2021-11-21 13:32:37,902 [INFO  ] mainlogger – WalletServiceImpl.java - createWallet implementation has been ended 
+2021-11-21 13:33:41,386 [INFO  ] mainlogger – CardController.java - getAllCards API has been invoked 
+2021-11-21 13:35:05,171 [WARN  ] o.s.w.s.m.s.DefaultHandlerExceptionResolver – Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2021-11-21 13:35:24,453 [INFO  ] mainlogger – CardController.java - cashWithdraw API has been invoked 
+2021-11-21 13:39:10,550 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 13:39:10,554 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 2 ms
+2021-11-21 13:39:10,770 [INFO  ] mainlogger – CardController.java - cashWithdraw API has been invoked 
+2021-11-21 13:40:47,000 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 13:40:47,007 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 6 ms
+2021-11-21 13:40:47,095 [INFO  ] mainlogger – CardController.java - cashWithdraw API has been invoked 
+2021-11-21 13:42:40,908 [INFO  ] mainlogger – CardController.java - cashWithdraw API has been invoked 
+2021-11-21 13:42:42,389 [INFO  ] mainlogger – WalletServiceImpl.java - updateWalletBalance implementation has been started 
+2021-11-21 13:42:42,555 [INFO  ] mainlogger – WalletServiceImpl.java - updateWalletBalance implementation has been ended 
+2021-11-21 15:37:23,374 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-21 15:37:23,377 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 3 ms
+2021-11-21 15:37:23,465 [INFO  ] mainlogger – WalletTransactionController.java - createWalletTransaction API has been inoked
+2021-11-21 15:37:23,465 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - createWalletTransaction implementation has been started 
+2021-11-21 15:38:05,986 [INFO  ] mainlogger – WalletTransactionController.java - createWalletTransaction API has been inoked
+2021-11-21 15:38:05,988 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - createWalletTransaction implementation has been started 
+2021-11-21 15:38:35,382 [INFO  ] mainlogger – WalletTransactionController.java - createWalletTransaction API has been inoked
+2021-11-21 15:38:35,388 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - createWalletTransaction implementation has been started 
+2021-11-21 15:41:31,058 [INFO  ] mainlogger – WalletTransactionController.java - createWalletTransaction API has been inoked
+2021-11-21 15:41:31,059 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - createWalletTransaction implementation has been started 

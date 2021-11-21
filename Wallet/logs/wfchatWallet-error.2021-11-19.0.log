@@ -1,0 +1,1 @@
+2021-11-19 17:50:25,097 [ERROR ] o.h.e.j.s.SqlExceptionHelper – Incorrect integer value: 'PbPePeFF' for column 'user_id' at row 1

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <property name="LOG_PATTERN" value="%d [%-6p] %c{1} – %m%n" />
+    <property name="APP_LOG_ROOT" value="./logs" />
+     
+    <appender name="console" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>${LOG_PATTERN}</pattern>
+        </encoder>
+    </appender>
+ 
+    <appender name="debuglog" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${APP_LOG_ROOT}/wfchatWallet.log</file>
+        <encoder>
+            <pattern>${LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${APP_LOG_ROOT}/wfchatWallet.%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+             <maxFileSize>500MB</maxFileSize>
+             <totalSizeCap>100GB</totalSizeCap>
+             <maxHistory>180</maxHistory>
+        </rollingPolicy>
+     </appender>
+     
+    <appender name="errorLog" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${APP_LOG_ROOT}/wfchatWallet-error.log</file>
+        <encoder>
+            <pattern>${LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${APP_LOG_ROOT}/wfchatWallet-error.%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+             <maxFileSize>500MB</maxFileSize>
+             <totalSizeCap>100GB</totalSizeCap>
+             <maxHistory>180</maxHistory>
+        </rollingPolicy>
+     </appender>
+     
+    <logger name="mainlogger" level="INFO" additivity="false" >
+        <appender-ref ref="debuglog" />
+    </logger>
+    
+    <logger name="errorlogger" level="ERROR" additivity="false" >
+    	<appender-ref ref="debuglog" />
+        <appender-ref ref="errorLog" />
+    </logger>
+     
+    <logger name="org.springframework.web" level="INFO">
+        <appender-ref ref="debuglog" />
+    </logger>
+     
+    <logger name="org.hibernate" level="ERROR">
+        <appender-ref ref="errorLog" />
+    </logger>
+ 
+     <root level="info">
+        <appender-ref ref="console" />
+     </root>
+      
+</configuration>

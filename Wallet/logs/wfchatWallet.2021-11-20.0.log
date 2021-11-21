@@ -1,0 +1,76 @@
+2021-11-20 14:22:36,231 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-20 14:22:36,240 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 9 ms
+2021-11-20 14:22:36,271 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - getTopupInfo implementation has been started 
+2021-11-20 14:24:12,106 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-20 14:24:12,107 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 1 ms
+2021-11-20 14:24:12,126 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - getTopupInfo implementation has been started 
+2021-11-20 14:24:48,432 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - getTopupInfo implementation has been started 
+2021-11-20 14:25:57,303 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - getTopupInfo implementation has been started 
+2021-11-20 14:44:12,584 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-20 14:44:12,588 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 3 ms
+2021-11-20 14:46:44,871 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-20 14:46:44,875 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 3 ms
+2021-11-20 14:46:44,904 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - getTopupInfo implementation has been started 
+2021-11-20 14:49:51,197 [INFO  ] mainlogger – WalletController.java - createWallet API has been invoked z2zxzx00
+2021-11-20 14:49:51,198 [INFO  ] mainlogger – WalletServiceImpl.java - createWallet implementation has been started 
+2021-11-20 14:49:51,993 [INFO  ] mainlogger – WalletServiceImpl.java - createWallet implementation has been ended 
+2021-11-20 14:57:16,630 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-20 14:57:16,634 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 2 ms
+2021-11-20 14:57:16,658 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - getTopupInfo implementation has been started 
+2021-11-20 14:58:55,206 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-20 14:58:55,214 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 8 ms
+2021-11-20 14:58:55,238 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - getTopupInfo implementation has been started 
+2021-11-20 15:01:03,052 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-20 15:01:03,058 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 6 ms
+2021-11-20 15:01:03,089 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - getTopupInfo implementation has been started 
+2021-11-20 15:01:55,556 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-20 15:01:55,558 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 2 ms
+2021-11-20 15:01:55,578 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - getTopupInfo implementation has been started 
+2021-11-20 15:20:32,245 [INFO  ] mainlogger – WalletController.java - createWallet API has been invoked z2zxzx00
+2021-11-20 15:20:32,247 [INFO  ] mainlogger – WalletServiceImpl.java - createWallet implementation has been started 
+2021-11-20 15:20:32,728 [INFO  ] mainlogger – WalletServiceImpl.java - createWallet implementation has been ended 
+2021-11-20 15:23:52,530 [INFO  ] mainlogger – WalletController.java - getWalletInfoByUserId API has been invoked z2zxzx00
+2021-11-20 15:26:30,922 [INFO  ] mainlogger – WalletController.java - createWallet API has been invoked z2zxzx00
+2021-11-20 15:26:30,925 [INFO  ] mainlogger – WalletServiceImpl.java - createWallet implementation has been started 
+2021-11-20 15:26:31,214 [INFO  ] mainlogger – WalletServiceImpl.java - createWallet implementation has been ended 
+2021-11-20 15:32:43,445 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-20 15:32:43,449 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 2 ms
+2021-11-20 15:32:43,540 [INFO  ] mainlogger – WalletTransactionController.java - createWalletTransaction API has been inoked
+2021-11-20 15:32:43,541 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - createWalletTransaction implementation has been started 
+2021-11-20 15:32:45,473 [INFO  ] mainlogger – WalletServiceImpl.java - updateWalletBalance implementation has been started 
+2021-11-20 15:32:45,579 [INFO  ] mainlogger – WalletServiceImpl.java - updateWalletBalance implementation has been ended 
+2021-11-20 15:32:46,037 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - createWalletTransaction implementation has been ended 
+2021-11-20 15:33:58,171 [INFO  ] mainlogger – WalletTransactionController.java - createWalletTransaction API has been inoked
+2021-11-20 15:33:58,172 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - createWalletTransaction implementation has been started 
+2021-11-20 15:33:59,750 [INFO  ] mainlogger – WalletServiceImpl.java - updateWalletBalance implementation has been started 
+2021-11-20 15:33:59,851 [INFO  ] mainlogger – WalletServiceImpl.java - updateWalletBalance implementation has been ended 
+2021-11-20 15:34:00,253 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - createWalletTransaction implementation has been ended 
+2021-11-20 16:16:55,568 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-20 16:16:55,576 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 3 ms
+2021-11-20 16:16:55,672 [INFO  ] mainlogger – WalletTransactionController.java - createWalletTransaction API has been inoked
+2021-11-20 16:16:55,673 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - createWalletTransaction implementation has been started 
+2021-11-20 16:17:38,995 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-20 16:17:39,001 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 6 ms
+2021-11-20 16:17:39,113 [INFO  ] mainlogger – WalletTransactionController.java - createWalletTransaction API has been inoked
+2021-11-20 16:17:39,113 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - createWalletTransaction implementation has been started 
+2021-11-20 16:17:40,931 [INFO  ] mainlogger – WalletServiceImpl.java - updateWalletBalance implementation has been started 
+2021-11-20 16:19:16,207 [INFO  ] mainlogger – WalletTransactionController.java - createWalletTransaction API has been inoked
+2021-11-20 16:19:16,208 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - createWalletTransaction implementation has been started 
+2021-11-20 16:19:17,777 [INFO  ] mainlogger – WalletServiceImpl.java - updateWalletBalance implementation has been started 
+2021-11-20 16:19:17,869 [INFO  ] mainlogger – WalletServiceImpl.java - updateWalletBalance implementation has been ended 
+2021-11-20 16:19:18,318 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - createWalletTransaction implementation has been ended 
+2021-11-20 16:21:29,153 [INFO  ] mainlogger – WalletTransactionController.java - confirmTransaction API has been inoked 1462032802542256128
+2021-11-20 16:21:29,154 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - confirmTxn implementation has been started 
+2021-11-20 16:26:38,627 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-20 16:26:38,631 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 3 ms
+2021-11-20 16:26:38,676 [INFO  ] mainlogger – WalletTransactionController.java - confirmTransaction API has been inoked 1462032802542256128
+2021-11-20 16:26:38,676 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - confirmTxn implementation has been started 
+2021-11-20 17:05:58,702 [INFO  ] mainlogger – WalletTransactionController.java - getAllWalletTxns API has been inoked
+2021-11-20 17:05:58,709 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - getAllWalletTxns implementation has been started 
+2021-11-20 17:07:49,902 [INFO  ] o.s.w.s.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+2021-11-20 17:07:49,907 [INFO  ] o.s.w.s.DispatcherServlet – Completed initialization in 4 ms
+2021-11-20 17:07:49,927 [INFO  ] mainlogger – WalletTransactionController.java - getAllWalletTxns API has been inoked
+2021-11-20 17:07:49,927 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - getAllWalletTxns implementation has been started 
+2021-11-20 17:07:51,262 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - getAllWalletTxns implementation has been ended 
+2021-11-20 17:08:09,938 [INFO  ] mainlogger – WalletTransactionController.java - getTxnById API has been inoked 1
+2021-11-20 17:08:09,939 [INFO  ] mainlogger – WalletTransactionServiceImpl.java - getTxnsById implementation has been started 
